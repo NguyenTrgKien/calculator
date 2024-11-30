@@ -102,4 +102,13 @@ body {
   color: #fff;
 }
 
+@media (max-width: 568px) {
+  .container .calculator {
+    width: 37rem;
+  }
+  .container .calculator .row-btn .wrap-btn {
+    margin-top: 1.4rem;
+  }
+}
+
 /*# sourceMappingURL=style.css.map */
