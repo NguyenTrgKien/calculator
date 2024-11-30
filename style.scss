@@ -104,3 +104,16 @@ body{
         }
     }
 }   
+
+@media (max-width: 568px) {
+    .container{
+        .calculator{
+            width: 37rem;
+            .row-btn{
+                .wrap-btn{
+                    margin-top: 1.4rem;
+                }
+            }
+        }
+    }
+}
